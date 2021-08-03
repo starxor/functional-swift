@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '12.1'
+
+target 'FunctionalSwiftPodsExample' do
+  pod 'SwiftLint'
+  pod 'FunctionalSwift', :path => '../FunctionalSwift'
+end

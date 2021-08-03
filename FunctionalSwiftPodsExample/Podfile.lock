@@ -1,0 +1,23 @@
+PODS:
+  - FunctionalSwift (2.0.0)
+  - SwiftLint (0.40.3)
+
+DEPENDENCIES:
+  - FunctionalSwift (from `../FunctionalSwift`)
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  FunctionalSwift:
+    :path: "../FunctionalSwift"
+
+SPEC CHECKSUMS:
+  FunctionalSwift: 4a1722e3c22d0fa001d3fe18639b2102a237d26d
+  SwiftLint: dfd554ff0dff17288ee574814ccdd5cea85d76f7
+
+PODFILE CHECKSUM: 68d16fd7de20a6b9c2d67522ab42c75a4060e058
+
+COCOAPODS: 1.10.0

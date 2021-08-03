@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:FunctionalSwiftSPExample/FunctionalSwiftSPExample.xcodeproj">
+      location = "group:FunctionalSwiftPodsExample.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:FunctionalSwift">
+      location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
